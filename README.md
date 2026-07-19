@@ -6,9 +6,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Vshal654/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Vshal654/DSA/tree/master/0152-maximum-product-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Vshal654/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Vshal654/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
